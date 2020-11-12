@@ -2,7 +2,7 @@
 
 
 
-- 🔭 I’m currently working on my thesis
+- 🔭 I’m currently working on my master thesis
 - 🌱 I’m currently learning TensorFlow
 - 👯 I’m looking to collaborate on open source
 - 🤔 I’m looking for help with Docker
