@@ -9,5 +9,5 @@
 - 💬 Ask me about ... social skills
 - 📫 How to reach me:  ...[Personal Page](https://monibsediqi.github.io/)
 - 😄 Pronouns: ...He/ him
-- ⚡ Fun fact: ...friendly!!!
+- ⚡ Fun fact: ...I hate cold weather but I like snow!!!
 
