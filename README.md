@@ -3,7 +3,7 @@
 
 
 - 🔭 FOCUSED
-- 📫 Experience: Proven Experience in AI frameworks (Pytorch, Tensorflow(Keras)), Desktop framework (C++ based QT), and Web framework( Django)
+- 📫 Proven Experience in AI frameworks (Pytorch, Tensorflow(Keras)), Desktop framework (C++ based QT), and Web framework( Django)
 - 🌱 I’m currently learning QT
 - 👯 I’m looking to collaborate on open source
 - 🤔 I’m looking for help with mediapipe framework
