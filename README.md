@@ -9,5 +9,4 @@
 - 🤔 I’m looking for help with medical image processing
 - 💬 Ask me about ... social skills
 - 📫 How to reach me:  ...[Personal Page](https://monibsediqi.github.io/)
-- 😄 Pronouns: ...He/ him
 
